@@ -1,4 +1,5 @@
 # github-learning-101
-GitHub learning test 101
+Collection of Jupyter Notebooks
 
-VAE: ipynb for VAE pyTorch MNIST
+* YOLO on Colab
+* VAE pyorch with MNIST
